@@ -43,7 +43,6 @@ A bootcamp project exploring binaural audio, meditation, focus, and web-based us
 
 Install dependencies:
 
-```bash
 npm install
 
 Start the development server:
@@ -57,7 +56,8 @@ npm run build
 Preview the production build locally:
 
 npm run preview
-Deployment
+
+## Deployment
 
 This project is currently built with Vite and deployed through Hostinger.
 
@@ -65,8 +65,8 @@ For manual deployment:
 
 Run:
 npm run build
-Upload the contents of the dist folder to the Hostinger site directory, usually public_html.
-Contact
+
+## Contact
 
 Christopher Gordon
 Austin / Dripping Springs, TX
@@ -74,6 +74,6 @@ Email: chris.c.gordon888@gmail.com
 
 Portfolio: www.chriscosmic.com
 
-License
+## License
 
 This project is intended as a personal portfolio website. Code reuse is allowed where applicable, but personal branding, written content, project descriptions, and visual identity should not be copied directly.
