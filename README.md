@@ -49,13 +49,6 @@ Start the development server:
 
 npm run dev
 
-Build for production:
-
-npm run build
-
-Preview the production build locally:
-
-npm run preview
 
 ## Deployment
 
@@ -64,7 +57,7 @@ This project is currently built with Vite and deployed through Hostinger.
 For manual deployment:
 
 Run:
-npm run build
+npm run dev
 
 ## Contact
 
