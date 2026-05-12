@@ -1,0 +1,21 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cgStroke" x1="8" y1="8" x2="56" y2="56" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#915EFF"></stop>
+      <stop offset="1" stop-color="#6E48D9"></stop>
+    </linearGradient>
+    <linearGradient id="cgAccent" x1="16" y1="16" x2="48" y2="48" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A98BFF"></stop>
+      <stop offset="1" stop-color="#915EFF"></stop>
+    </linearGradient>
+  </defs>
+
+  <rect x="4" y="4" width="56" height="56" rx="16" fill="#151030"></rect>
+  <rect x="4.75" y="4.75" width="54.5" height="54.5" rx="15.25" stroke="url(#cgStroke)" stroke-opacity="0.45" stroke-width="1.5"></rect>
+
+  <text x="32" y="38" text-anchor="middle" fill="white" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="1.5">
+    CG
+  </text>
+
+  <circle cx="49.5" cy="14.5" r="3" fill="url(#cgAccent)"></circle>
+</svg>
