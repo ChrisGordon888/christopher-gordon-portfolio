@@ -31,6 +31,7 @@ import BrainFreq from "./BrainFreq.png";
 import bbNotesPreview from "./bb-notes-preview.png";
 import cosmicTrackerPreview from "./cosmic-tracker-preview.png";
 import brainFreqPreview from "./brain-freq-preview.png";
+import sparkPreview from "./spark-preview.png";
 
 export {
   logo,
@@ -66,4 +67,5 @@ export {
   bbNotesPreview,
   cosmicTrackerPreview,
   brainFreqPreview,
+  sparkPreview,
 };

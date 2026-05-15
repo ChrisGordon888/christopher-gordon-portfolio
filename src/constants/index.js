@@ -20,6 +20,7 @@ import {
     bbNotesPreview,
     cosmicTrackerPreview,
     brainFreqPreview,
+    sparkPreview,
 } from "../assets";
 
 // NOTE:
@@ -228,6 +229,33 @@ const projects = [
         image: bbNotesPreview, // replace with BB Notes screenshot
         source_code_link: "https://github.com/ChrisGordon888/bb-notes",
         live_site_link: "https://bb-notes-phi.vercel.app/",
+    },
+    {
+        name: "Spark",
+        status: "Deployed",
+        description:
+            "A songwriting flow and cue practice tool built to help artists find pockets, rotate rhyme words, test flows, and stay focused while writing.",
+        tags: [
+            {
+                name: "nextjs",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "typescript",
+                color: "green-text-gradient",
+            },
+            {
+                name: "tailwind",
+                color: "pink-text-gradient",
+            },
+            {
+                name: "vercel",
+                color: "blue-text-gradient",
+            },
+        ],
+        image: sparkPreview,
+        source_code_link: "https://github.com/ChrisGordon888/spark",
+        live_site_link: "https://spark-three-bice.vercel.app/",
     },
     {
         name: "Cosmic Tracker App",
